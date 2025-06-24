@@ -1,11 +1,10 @@
 # Mobile Application with Jetpack Compose and Retrofit
 
-Android application that displays a list of products with pagination, search, and dark mode features. Built using modern Android technologies such as Jetpack Compose, Retrofit2, and Gson Converter.
+Android application that displays a list of products with pagination and dark mode features. Built using modern Android technologies such as Jetpack Compose, Retrofit2, and Gson Converter.
 
 ## Features
 
 - Displays a list of products with pagination
-- Product search
 - Dark mode support
 - Neat Rupiah price format
 - Error handling for navigation buttons (previous/next)
